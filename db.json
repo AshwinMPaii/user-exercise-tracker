@@ -1,0 +1,47 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "ashwin",
+      "phone": "9482008248"
+    },
+    {
+      "name": "falooda",
+      "phone": "99838383",
+      "id": 3
+    },
+    {
+      "name": "myra",
+      "phone": "9964303099",
+      "id": 4
+    },
+    {
+      "name": "adasd",
+      "phone": "1029292",
+      "id": 5
+    }
+  ],
+  "exercises": [
+    {
+      "userId": "1",
+      "name": "running",
+      "duration": "2",
+      "date": "2023-09-06",
+      "id": 1
+    },
+    {
+      "userId": "4",
+      "name": "skipping",
+      "duration": "120",
+      "date": "2023-08-23",
+      "id": 3
+    },
+    {
+      "userId": "4",
+      "name": "jumping",
+      "duration": "10",
+      "date": "2023-09-05",
+      "id": 4
+    }
+  ]
+}
